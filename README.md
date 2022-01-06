@@ -6,3 +6,5 @@ Please see the notebook for the presentation materials and code:
 
 [Bag of Tricks Notebook](BagOfTricks.ipynb)
 
+To run on Google Colaboratory, please visit https://colab.research.google.com/github/mboyanov/recsys-postprocessing/blob/main/BagOfTricks.ipynb
+
